@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I build cross-platform mobile apps using Flutter<br><br>🧠 Strong focus on clean code, clean UI, and scalable architecture<br><br>🧠 Experienced in state management using GetX, Provider, and BLoC<br><br>🌱 Always exploring best practices for clean code and efficient UI
+🚀 I build cross-platform mobile apps using Flutter<br><br>🧠 Strong focus on clean code, clean UI, and scalable architecture<br><br>🧠 Experienced in state management using GetX and Provider<br><br>🌱 Always exploring best practices for clean code and efficient UI
 
 
 ## 🌐 Socials:
